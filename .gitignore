@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven target directory
+target/
+
+# Compiled classes
+*.class
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
